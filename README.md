@@ -5,8 +5,6 @@ Welcome to **Awesome FinOps**—your go-to resource for mastering financial oper
 
 🔗 [**Check us out on GitHub!**](https://github.com/venkatreddyc/awesome-finops)
 
----
-
 ## 📖 Table of Contents
 - [Introduction](#introduction)
 - [Articles](#articles)
