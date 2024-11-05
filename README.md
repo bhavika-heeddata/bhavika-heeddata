@@ -20,19 +20,19 @@ Welcome to **Awesome FinOps**—your go-to resource for mastering financial oper
 
 ---
 
-## Introduction
+## 🌍Introduction
 
 ### What is FinOps?
 - FinOps is a financial management practice that enables cloud financial management and optimization through collaboration across finance, engineering, and operations teams.
 [What is FinOps?](https://www.finops.org/what-is-finops/): A comprehensive definition and introduction to FinOps.
 
 ---
-## Articles
+## 📰Articles
 ### Featured Articles
 - **[The Rise of FinOps](https://www.investopedia.com/terms/f/finops.asp)**: Exploring the rise of FinOps and its impact on financial management.
 - **[Implementing FinOps](https://www.finops.org/blog/implementing-finops/)**: A guide to adopting FinOps practices in your organization.
 ---
-## Books
+## 📘Books
 ### Recommended Reads
 | Title | Description | Link |
 |-------|-------------|------|
@@ -103,7 +103,7 @@ Discover tools that enhance your FinOps practice:
 | **Zesty** | Automates RI purchasing and EBS optimization. Tags: automated_optimization, AWS, RIs, EBS | [Explore Tool](https://zesty.io) |
 
 ---
-## Education
+## 🎓 Education
 ### Articles
 - **[Understanding Data Transfer in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/)** :Make sense of the complex world of data transfer cost in AWS.
 
