@@ -17,7 +17,6 @@ Welcome to **Awesome FinOps**—your go-to resource for mastering financial oper
 - [Success Stories](#success-stories)
 - [Contributing](#contributing)
 
----
 
 ## 🌍Introduction
 
@@ -25,19 +24,17 @@ Welcome to **Awesome FinOps**—your go-to resource for mastering financial oper
 - FinOps is a financial management practice that enables cloud financial management and optimization through collaboration across finance, engineering, and operations teams.
 [What is FinOps?](https://www.finops.org/what-is-finops/): A comprehensive definition and introduction to FinOps.
 
----
 ## 📰Articles
 ### Featured Articles
 - **[The Rise of FinOps](https://www.investopedia.com/terms/f/finops.asp)**: Exploring the rise of FinOps and its impact on financial management.
 - **[Implementing FinOps](https://www.finops.org/blog/implementing-finops/)**: A guide to adopting FinOps practices in your organization.
----
+
 ## 📘Books
 ### Recommended Reads
 | Title | Description | Link |
 |-------|-------------|------|
 | **Cloud Financial Management Guide** | Comprehensive strategies for managing finances in the cloud environment. | [Read More](https://www.amazon.com/Cloud-Financial-Management-Guide-Principles/dp/1492044635) |
 | **FinOps: Managing Your Cloud Financials** | Detailed insights into various aspects of FinOps and cloud financial management. | [Read More](https://www.amazon.com/FinOps-Managing-Financials-Brian-Capouch/dp/B09FS544S6) |
----
 
 ## Courses
 ### Learning Resources
@@ -49,7 +46,6 @@ Elevate your understanding of FinOps with these courses:
 - **[FinOps Best Practices Webinar](#)**: Join us on [date] for insights from experts.
 - **[Live Q&A Session on FinOps Implementation](#)**: Register [here](#).
 
----
 
 ## 🛠 Tools
 ### Essential Tools for FinOps
@@ -101,7 +97,6 @@ Discover tools that enhance your FinOps practice:
 | **Xosphere** | Commercial version of AutoSpotting Community Edition with some enhancements. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS | [Explore Tool](https://xosphere.io) |
 | **Zesty** | Automates RI purchasing and EBS optimization. Tags: automated_optimization, AWS, RIs, EBS | [Explore Tool](https://zesty.io) |
 
----
 ## 🎓 Education
 ### Articles
 - **[Understanding Data Transfer in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/)** :Make sense of the complex world of data transfer cost in AWS.
@@ -132,14 +127,13 @@ Discover tools that enhance your FinOps practice:
 
 ### KPIs
 - **[finopsfoundation/kpis](finopsfoundation/kpis)** : List of common KPIs by the FinOps Foundation.
---- 
 
 ## Videos
 ### Informative Video Resources
 Enhance your FinOps knowledge with these videos:
 - **[FinOps Explained](https://www.youtube.com/watch?v=4CoJr7cjeZ4)**: A succinct overview of the benefits of FinOps.
 - **[AWS Cost Explorer Tutorial](https://www.youtube.com/watch?v=4726eV2Z2Rk)**: Learn how to use AWS Cost Explorer for effective cost management.
----
+  
 
 ## Communities
 ### Join the FinOps Community
@@ -151,14 +145,13 @@ Engage with fellow professionals:
 - **[Annual FinOps Conference](#)**: Network with industry leaders and peers.
 - **[Local Meetups](#)**: Find a FinOps meetup in your area.
 
----
 
 ## Podcasts
 ### Stay Updated with FinOps Podcasts
 Listen to the latest discussions in the FinOps space:
 - **[The FinOps Files](https://www.finops.org/finops-files/)**: A podcast discussing FinOps and cloud financial management.
 - **[FinOps Community Podcast](https://finops.org/community/podcasts/)**: Insights from industry leaders in FinOps.
----
+
 ## service-providers
 ### Consultancies
 - **[Duckbill Group](https://www.duckbillgroup.com/)** : Mostly focused on Enterprise customers, based in the US.
@@ -171,7 +164,6 @@ Listen to the latest discussions in the FinOps space:
 - **[Jean Latiere / OptimNow](https://www.optimnow.io/)** : FinOps consultant focused on Green Computing, ex-AWS Specialist for Spot and Graviton, based in France.
 - **[Shahar Raz](https://razts.com)** : Tech strategy consultant focused on AWS cost optimization, based in Israel.
 - **[Srinivas Devaki / OptiOwl](https://optiowl.cloud/)** : Technical Cloud Optimization Consultant, based in India.
----
 
 ## Success Stories
 ### Real-World Applications of FinOps
@@ -179,12 +171,9 @@ Explore how organizations successfully implemented FinOps practices:
 - **Case Study: Company A**: By adopting FinOps, Company A reduced their cloud costs by 30% in just six months. Learn more about their journey [here](#).
 - **Case Study: Company B**: Implementing cross-team collaboration resulted in significant improvements in budget forecasting. Read their story [here](#).
 
----
-
 ## Contributing
 We welcome contributions to this repository! Please refer to the [contributing guidelines](contributing.md) to help us improve our resources.
 
----
 
 Thank you for visiting **Awesome FinOps**! Let’s work together to optimize cloud financial management.
 ---
