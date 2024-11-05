@@ -1,3 +1,4 @@
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 8px;">
 # 🌟 Awesome FinOps
 
 Welcome to **Awesome FinOps**—your go-to resource for mastering financial operations in the cloud. This curated collection features articles, books, courses, tools, and community resources designed to enhance your FinOps knowledge and skills.
@@ -189,4 +190,4 @@ We welcome contributions to this repository! Please refer to the [contributing g
 
 Thank you for visiting **Awesome FinOps**! Let’s work together to optimize cloud financial management.
 ---
-
+</div>
