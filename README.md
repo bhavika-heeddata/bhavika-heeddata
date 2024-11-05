@@ -128,14 +128,14 @@ Discover tools that enhance your FinOps practice:
 ### KPIs
 - **[finopsfoundation/kpis](finopsfoundation/kpis)** : List of common KPIs by the FinOps Foundation.
 
-## Videos
+## 🎥Videos
 ### Informative Video Resources
 Enhance your FinOps knowledge with these videos:
 - **[FinOps Explained](https://www.youtube.com/watch?v=4CoJr7cjeZ4)**: A succinct overview of the benefits of FinOps.
 - **[AWS Cost Explorer Tutorial](https://www.youtube.com/watch?v=4726eV2Z2Rk)**: Learn how to use AWS Cost Explorer for effective cost management.
   
 
-## Communities
+## 🌐Communities
 ### Join the FinOps Community
 Engage with fellow professionals:
 - **[FinOps Foundation Community](https://www.finops.org/community/)**: A vibrant space for practitioners to share insights.
@@ -146,7 +146,7 @@ Engage with fellow professionals:
 - **[Local Meetups](#)**: Find a FinOps meetup in your area.
 
 
-## Podcasts
+## 🎙Podcasts
 ### Stay Updated with FinOps Podcasts
 Listen to the latest discussions in the FinOps space:
 - **[The FinOps Files](https://www.finops.org/finops-files/)**: A podcast discussing FinOps and cloud financial management.
