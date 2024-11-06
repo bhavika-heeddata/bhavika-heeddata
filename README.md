@@ -54,16 +54,16 @@ Elevate your understanding of FinOps with these courses:
 Discover tools that enhance your FinOps practice:
 
 #### Open Source Tools
-| Title                                   | Description                                                        | Link                                                                                     |
-|-----------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| **AutoSpotting Community Edition** | Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot | [Explore Tool](#) |
-| **Cloud Custodian**               | Stateless rules engine for cloud policy definition and enforcement. Tags: cost_visibility, automated_optimization, multi_cloud | [Explore Tool](#) |
-| **ec2instances.info**             | Information about AWS infrastructure, like EC2 and RDS instance types. Tags: cost_visibility, AWS, EC2, RDS | [Explore Tool](#) |
-| **EBS Optimizer Community Edition** | Converts AWS EBS volumes to GP3 without configuration changes. Tags: automated_optimization, AWS, EBS | [Explore Tool](#) |
-| **InfraCost**                     | Displays cost of Terraform code changes. Tags: cost_visibility, Terraform | [Explore Tool](#) |
-| **Karpenter**                     | Just-in-time capacity provisioner for Kubernetes. Tags: automated_optimization, Kubernetes, AWS, Spot, EKS | [Explore Tool](#) |
-| **OptScale**                      | FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML | [Explore Tool](#) |
-| **Savings Estimator**             | GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot | [Explore Tool](#) |
+| Tool Name                                   | Description                                                        | Link                                                                                     |
+|---------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **AutoSpotting Community Edition**          | Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot | [Explore Tool](#) |
+| **Cloud Custodian**                         | Stateless rules engine for cloud policy definition and enforcement. Tags: cost_visibility, automated_optimization, multi_cloud | [Explore Tool](#) |
+| **ec2instances.info**                       | Information about AWS infrastructure, like EC2 and RDS instance types. Tags: cost_visibility, AWS, EC2, RDS | [Explore Tool](#) |
+| **EBS Optimizer Community Edition**         | Converts AWS EBS volumes to GP3 without configuration changes. Tags: automated_optimization, AWS, EBS | [Explore Tool](#) |
+| **InfraCost**                               | Displays cost of Terraform code changes. Tags: cost_visibility, Terraform | [Explore Tool](#) |
+| **Karpenter**                               | Just-in-time capacity provisioner for Kubernetes. Tags: automated_optimization, Kubernetes, AWS, Spot, EKS | [Explore Tool](#) |
+| **OptScale**                                | FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML | [Explore Tool](#) |
+| **Savings Estimator**                       | GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot | [Explore Tool](#) |
 
 
 #### Commercial Tools
