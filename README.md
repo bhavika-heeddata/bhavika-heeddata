@@ -65,10 +65,9 @@ Discover tools that enhance your FinOps practice:
 | **OptScale**                        | FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML | [Explore Tool](https://github.com/hystax/optscale)                    |
 | **Savings Estimator**               | GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot | [Explore Tool](https://github.com/LeanerCloud/savings-estimator)      |
 
-#### Commercial Toolss
+#### Commercial Tools
 | Tool Name        | Description                                                                 | Link                                                                 |
 |------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
-
 | **Cloud Financial Management Guide**     | Comprehensive strategies for managing finances in the cloud environment. | [Read More](https://www.amazon.com/Cloud-Financial-Management-Guide-Principles/dp/1492044635) |
 | **FinOps: Managing Your Cloud Financials** | Detailed insights into various aspects of FinOps and cloud financial management. | [Read More](https://www.amazon.com/FinOps-Managing-Financials-Brian-Capouch/dp/B09FS544S6) |
 | **Cloudability**  | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                         |
@@ -77,7 +76,7 @@ Discover tools that enhance your FinOps practice:
 | **BlueArch**      | Automated tagging and cost optimization recommendations.                    | [Explore Tool](https://www.bluearch.io/)                             |
 | **Cast.ai**       | Automated cost optimization for Kubernetes.                                 | [Explore Tool](https://cast.ai)                                      |
 | **CloudCheckr**   | Cloud management platform for cost, security, and compliance.               | [Explore Tool](https://www.cloudcheckr.com/)                         |
-| **CloudHealth**   | Cloud cost visibility and automated optimizations.                          | [Explore Tool](https://cloudhealth.vmware.com/)                      |
+| **CloudHealth**   | Cloud cost visibility and automated optimizations.                          | [Explore Tool](https://cloudhealth.vmware.com/)                      |                |
 | **CloudPouch**    | A unique desktop application that works with any AWS account.               | [Explore Tool](https://cloudpouch.dev/)                              |
 | **CloudThread**   | Cloud cost tracking and waste identification.                               | [Explore Tool](https://www.cloudthread.io/)                          |
 | **CloudZero**     | Cloud cost intelligence platform.                                           | [Explore Tool](https://www.cloudzero.com/)                           |
