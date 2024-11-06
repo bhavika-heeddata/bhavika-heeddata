@@ -1,7 +1,7 @@
 
 # 🌟 Awesome FinOps Resources from Heeddata
 
-Welcome to **Awesome FinOps**your go-to resource for mastering financial operations in the cloud. This curated collection features articles, books, courses, tools, and community resources designed to enhance your FinOps knowledge and skills.
+Welcome to **Awesome FinOps** your go-to resource for mastering financial operations in the cloud. This curated collection features articles, books, courses, tools, and community resources designed to enhance your FinOps knowledge and skills.
 
 🔗 [**Check us out on GitHub!**](https://github.com/venkatreddyc/awesome-finops)
 
