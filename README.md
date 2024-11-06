@@ -54,8 +54,8 @@ Elevate your understanding of FinOps with these courses:
 Discover tools that enhance your FinOps practice:
 
 #### Open Source Tools
-| Tool Name                         | Description                                                                  | Link          |
-|-----------------------------------|-----------------------------------------------------------------------------|---------------|
+| Title                                   | Description                                                        | Link                                                                                     |
+|-----------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | **AutoSpotting Community Edition** | Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot | [Explore Tool](#) |
 | **Cloud Custodian**               | Stateless rules engine for cloud policy definition and enforcement. Tags: cost_visibility, automated_optimization, multi_cloud | [Explore Tool](#) |
 | **ec2instances.info**             | Information about AWS infrastructure, like EC2 and RDS instance types. Tags: cost_visibility, AWS, EC2, RDS | [Explore Tool](#) |
