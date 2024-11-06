@@ -77,6 +77,7 @@ Discover tools that enhance your FinOps practice:
 | **Cast.ai**       | Automated cost optimization for Kubernetes.                                 | [Explore Tool](https://cast.ai)                                      |
 | **CloudCheckr**   | Cloud management platform for cost, security, and compliance.               | [Explore Tool](https://www.cloudcheckr.com/)                         |
 | **CloudHealth**   | Cloud cost visibility and automated optimizations.                          | [Explore Tool](https://cloudhealth.vmware.com/)                      |
+
 | **CloudPouch**    | A unique desktop application that works with any AWS account.               | [Explore Tool](https://cloudpouch.dev/)                              |
 | **CloudThread**   | Cloud cost tracking and waste identification.                               | [Explore Tool](https://www.cloudthread.io/)                          |
 | **CloudZero**     | Cloud cost intelligence platform.                                           | [Explore Tool](https://www.cloudzero.com/)                           |
