@@ -69,6 +69,9 @@ Discover tools that enhance your FinOps practice:
 #### Commercial Tools
 | Tool Name        | Description                                                                 | Link                                                                 |
 |------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+|-----------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Cloud Financial Management Guide**     | Comprehensive strategies for managing finances in the cloud environment. | [Read More](https://www.amazon.com/Cloud-Financial-Management-Guide-Principles/dp/1492044635) |
+| **FinOps: Managing Your Cloud Financials** | Detailed insights into various aspects of FinOps and cloud financial management. | [Read More](https://www.amazon.com/FinOps-Managing-Financials-Brian-Capouch/dp/B09FS544S6) |
 | **Cloudability**  | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                         |
 | **Finout**        | Comprehensive cloud cost management solution.                               | [Explore Tool](https://www.finout.io/)                               |
 | **AutoSpotting**  | Commercial version of AutoSpotting Community Edition with some enhancements. | [Explore Tool](https://autospotting.io)                              |
