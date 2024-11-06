@@ -65,7 +65,7 @@ Discover tools that enhance your FinOps practice:
 | **OptScale**                        | FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML | [Explore Tool](https://github.com/hystax/optscale)                    |
 | **Savings Estimator**               | GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot | [Explore Tool](https://github.com/LeanerCloud/savings-estimator)      |
 
-#### Commercial Tools
+#### Commercial Toolss
 | Tool Name        | Description                                                                 | Link                                                                 |
 |------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
 | **Cloud Financial Management Guide**     | Comprehensive strategies for managing finances in the cloud environment. | [Read More](https://www.amazon.com/Cloud-Financial-Management-Guide-Principles/dp/1492044635) |
@@ -77,6 +77,7 @@ Discover tools that enhance your FinOps practice:
 | **Cast.ai**       | Automated cost optimization for Kubernetes.                                 | [Explore Tool](https://cast.ai)                                      |
 | **CloudCheckr**   | Cloud management platform for cost, security, and compliance.               | [Explore Tool](https://www.cloudcheckr.com/)                         |
 | **CloudHealth**   | Cloud cost visibility and automated optimizations.                          | [Explore Tool](https://cloudhealth.vmware.com/)                      |
+
 
 | **CloudPouch**    | A unique desktop application that works with any AWS account.               | [Explore Tool](https://cloudpouch.dev/)                              |
 | **CloudThread**   | Cloud cost tracking and waste identification.                               | [Explore Tool](https://www.cloudthread.io/)                          |
