@@ -65,41 +65,39 @@ Discover tools that enhance your FinOps practice:
 | **OptScale**                        | FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML | [Explore Tool](https://github.com/hystax/optscale)                    |
 | **Savings Estimator**               | GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot | [Explore Tool](https://github.com/LeanerCloud/savings-estimator)      |
 
-#### Commercial Toolss
+#### Commercial Tools
 
-|  Tool Name                             |  Description                                                                   |  Link                                                               |
+| Tool Name                             | Description                                                                   | Link                                                               |
 |----------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| **Cloudability**  | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                         |
-| **Cloudability**  | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                         |
-| **Finout**        | Comprehensive cloud cost management solution.                               | [Explore Tool](https://www.finout.io/)                               |
-| **AutoSpotting**  | Commercial version of AutoSpotting Community Edition with some enhancements. | [Explore Tool](https://autospotting.io)                              |
-| **BlueArch**      | Automated tagging and cost optimization recommendations.                    | [Explore Tool](https://www.bluearch.io/)                             |
-| **Cast.ai**       | Automated cost optimization for Kubernetes.                                 | [Explore Tool](https://cast.ai)                                      |
-| **CloudCheckr**   | Cloud management platform for cost, security, and compliance.               | [Explore Tool](https://www.cloudcheckr.com/)                         |
-| **CloudHealth**   | Cloud cost visibility and automated optimizations.                          | [Explore Tool](https://cloudhealth.vmware.com/)                      |                |
-| **CloudPouch**    | A unique desktop application that works with any AWS account.               | [Explore Tool](https://cloudpouch.dev/)                              |
-| **CloudThread**   | Cloud cost tracking and waste identification.                               | [Explore Tool](https://www.cloudthread.io/)                          |
-| **CloudZero**     | Cloud cost intelligence platform.                                           | [Explore Tool](https://www.cloudzero.com/)                           |
-| **DigiUsher**     | Cloud cost visibility platform.                                             | [Explore Tool](https://www.digiusher.com/)                           |
-| **Densify**       | Automated rightsizing for Kubernetes and Compute Instances.                 | [Explore Tool](https://www.densify.com/)                             |
-| **EBS Optimizer** | Commercial version of EBS Optimizer Community Edition.                      | [Explore Tool](https://leanercloud.com/ebs-optimizer)                |
-| **Hystax**        | FinOps and MLOps platform.                                                  | [Explore Tool](https://hystax.com/)                                  |
-| **InfraCost**     | Commercial version of Infracost.                                            | [Explore Tool](https://www.infracost.io/)                            |
-| **KubeCost**      | Rightsizing recommendations for Kubernetes.                                 | [Explore Tool](https://kubecost.com)                                 |
-| **MemVerge**      | Optimizes cost and performance for data-intensive workloads.                | [Explore Tool](https://memverge.com/)                                |
-| **nOps**          | Comprehensive AWS FinOps platform.                                          | [Explore Tool](https://nops.io)                                      |
-| **Pepperdata**    | Real-time, automated cost optimization for Amazon EMR and Amazon EKS.       | [Explore Tool](https://www.pepperdata.com/)                          |
-| **ProsperOps**    | Automates RI and savings plans purchasing.                                  | [Explore Tool](https://www.prosperops.com/)                          |
-| **Pump**          | Cost optimization through group buying, AI, and automated RI purchasing.   | [Explore Tool](https://pump.co/)                                     |
-| **ScaleOps**      | Automated rightsizing for Kubernetes pods.                                  | [Explore Tool](https://scaleops.com/)                                |
-| **Spot.io**       | Visibility, infrastructure automation, and optimization for Spot and RIs.   | [Explore Tool](https://spot.io)                                      |
-| **Stacklet**      | Enterprise version of Cloud Custodian.                                      | [Explore Tool](https://stacklet.io/)                                  |
-| **Unusd**         | Detects unused cloud resources.                                             | [Explore Tool](https://unusd.cloud/)                                 |
-| **Usage.ai**      | Automates RI purchasing.                                                   | [Explore Tool](https://usage.ai)                                     |
-| **Vantage**       | Multi-cloud cost visibility with automated RI purchasing.                   | [Explore Tool](https://vantage.sh)                                   |
-| **Xosphere**      | Commercial version of AutoSpotting Community Edition with enhancements.     | [Explore Tool](https://xosphere.io)                                  |
-| **Zesty**         | Automates RI purchasing and EBS optimization.                               | [Explore Tool](https://zesty.io)                                     |
-
+| **Cloudability**                       | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                       |
+| **Finout**                             | Comprehensive cloud cost management solution.                               | [Explore Tool](https://www.finout.io/)                             |
+| **AutoSpotting**                       | Commercial version of AutoSpotting Community Edition with some enhancements. | [Explore Tool](https://autospotting.io)                            |
+| **BlueArch**                           | Automated tagging and cost optimization recommendations.                     | [Explore Tool](https://www.bluearch.io/)                           |
+| **Cast.ai**                            | Automated cost optimization for Kubernetes.                                 | [Explore Tool](https://cast.ai)                                    |
+| **CloudCheckr**                        | Cloud management platform for cost, security, and compliance.               | [Explore Tool](https://www.cloudcheckr.com/)                       |
+| **CloudHealth**                        | Cloud cost visibility and automated optimizations.                          | [Explore Tool](https://cloudhealth.vmware.com/)                    |
+| **CloudPouch**                         | A unique desktop application that works with any AWS account.               | [Explore Tool](https://cloudpouch.dev/)                            |
+| **CloudThread**                        | Cloud cost tracking and waste identification.                               | [Explore Tool](https://www.cloudthread.io/)                        |
+| **CloudZero**                          | Cloud cost intelligence platform.                                           | [Explore Tool](https://www.cloudzero.com/)                         |
+| **DigiUsher**                          | Cloud cost visibility platform.                                             | [Explore Tool](https://www.digiusher.com/)                         |
+| **Densify**                            | Automated rightsizing for Kubernetes and Compute Instances.                 | [Explore Tool](https://www.densify.com/)                           |
+| **EBS Optimizer**                      | Commercial version of EBS Optimizer Community Edition.                      | [Explore Tool](https://leanercloud.com/ebs-optimizer)              |
+| **Hystax**                             | FinOps and MLOps platform.                                                  | [Explore Tool](https://hystax.com/)                                |
+| **InfraCost**                          | Commercial version of Infracost.                                            | [Explore Tool](https://www.infracost.io/)                          |
+| **KubeCost**                           | Rightsizing recommendations for Kubernetes.                                 | [Explore Tool](https://kubecost.com)                               |
+| **MemVerge**                           | Optimizes cost and performance for data-intensive workloads.                | [Explore Tool](https://memverge.com/)                              |
+| **nOps**                               | Comprehensive AWS FinOps platform.                                          | [Explore Tool](https://nops.io)                                    |
+| **Pepperdata**                         | Real-time, automated cost optimization for Amazon EMR and Amazon EKS.       | [Explore Tool](https://www.pepperdata.com/)                        |
+| **ProsperOps**                         | Automates RI and savings plans purchasing.                                  | [Explore Tool](https://www.prosperops.com/)                        |
+| **Pump**                               | Cost optimization through group buying, AI, and automated RI purchasing.   | [Explore Tool](https://pump.co/)                                    |
+| **ScaleOps**                           | Automated rightsizing for Kubernetes pods.                                  | [Explore Tool](https://scaleops.com/)                               |
+| **Spot.io**                            | Visibility, infrastructure automation, and optimization for Spot and RIs.   | [Explore Tool](https://spot.io)                                    |
+| **Stacklet**                           | Enterprise version of Cloud Custodian.                                      | [Explore Tool](https://stacklet.io/)                                |
+| **Unusd**                              | Detects unused cloud resources.                                             | [Explore Tool](https://unusd.cloud/)                               |
+| **Usage.ai**                           | Automates RI purchasing.                                                   | [Explore Tool](https://usage.ai)                                   |
+| **Vantage**                            | Multi-cloud cost visibility with automated RI purchasing.                   | [Explore Tool](https://vantage.sh)                                  |
+| **Xosphere**                          | Commercial version of AutoSpotting Community Edition with enhancements.     | [Explore Tool](https://xosphere.io)                                |
+| **Zesty**                              | Automates RI purchasing and EBS optimization.                               | [Explore Tool](https://zesty.io)                                   |
 
 
 ## 🎓 Education
