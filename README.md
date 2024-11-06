@@ -69,14 +69,6 @@ Discover tools that enhance your FinOps practice:
 
 | Tool Name                           | Description                                                                 | Link                                                                 |
 |-------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **AutoSpotting Community Edition**  | Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot | [Explore Tool](https://github.com/LeanerCloud/AutoSpotting)           |
-| **Cloud Custodian**                 | Stateless rules engine for cloud policy definition and enforcement. Tags: cost_visibility, automated_optimization, multi_cloud | [Explore Tool](https://cloudcustodian.io/)                            |
-| **ec2instances.info**               | Information about AWS infrastructure, like EC2 and RDS instance types. Tags: cost_visibility, AWS, EC2, RDS | [Explore Tool](https://github.com/vantage-sh/ec2instances.info)       |
-| **EBS Optimizer Community Edition** | Converts AWS EBS volumes to GP3 without configuration changes. Tags: automated_optimization, AWS, EBS | [Explore Tool](https://github.com/LeanerCloud/EBS-Optimizer)          |
-| **InfraCost**                       | Displays cost of Terraform code changes. Tags: cost_visibility, Terraform | [Explore Tool](https://github.com/infracost/infracost)                |
-| **Karpenter**                       | Just-in-time capacity provisioner for Kubernetes. Tags: automated_optimization, Kubernetes, AWS, Spot, EKS | [Explore Tool](https://karpenter.sh)                                  |
-| **OptScale**                        | FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML | [Explore Tool](https://github.com/hystax/optscale)                    |
-| **Savings Estimator**               | GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot | [Explore Tool](https://github.com/LeanerCloud/savings-estimator)      |
 | **Cloudability**  | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                         |
 | **Cloudability**  | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                         |
 | **Finout**        | Comprehensive cloud cost management solution.                               | [Explore Tool](https://www.finout.io/)                               |
