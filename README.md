@@ -17,7 +17,6 @@ Welcome to **Awesome FinOps**your go-to resource for mastering financial operati
 - [Success Stories](#success-stories)
 - [Contributing](#contributing)
 
-
 ## 🌍Introduction
 
 ### What is FinOps?
@@ -54,7 +53,7 @@ Elevate your understanding of FinOps with these courses:
 Discover tools that enhance your FinOps practice:
 
 #### Open Source Tools
-| Tool Name                                   | Description                                                        | Link              |
+| To0l Name                                   | Description                                                        | Link              |
 |---------------------------------------------|--------------------------------------------------------------------|-------------------| 
 
 | **AutoSpotting Community Edition**          | Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot | [Explore Tool](#) |
