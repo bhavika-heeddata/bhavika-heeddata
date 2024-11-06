@@ -54,7 +54,7 @@ Elevate your understanding of FinOps with these courses:
 Discover tools that enhance your FinOps practice:
 
 #### Open Source Tools
-| Tool Name                                   | Description                                                        | Link                                                                                     |
+| Tool Name                                   | Description                                                        | Link              |
 |---------------------------------------------|--------------------------------------------------------------------|-------------------| 
 
 | **AutoSpotting Community Edition**          | Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot | [Explore Tool](#) |
