@@ -67,8 +67,8 @@ Discover tools that enhance your FinOps practice:
 
 #### Commercial Toolss
 
-| Tool Name                           | Description                                                                 | Link                                                               |
-|-------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Tool Name                             | Description                                                                   | Link                                                               |
+|---------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | **Cloudability**  | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                         |
 | **Cloudability**  | A platform for managing and optimizing cloud costs.                          | [Explore Tool](https://www.cloudability.com/)                         |
 | **Finout**        | Comprehensive cloud cost management solution.                               | [Explore Tool](https://www.finout.io/)                               |
