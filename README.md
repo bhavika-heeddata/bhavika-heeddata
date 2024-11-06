@@ -59,8 +59,6 @@ Discover tools that enhance your FinOps practice:
 
 | Title                                   | Description                                                        | Link                                                                                     |
 |-----------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| **Cloud Financial Management Guide**     | Comprehensive strategies for managing finances in the cloud environment. | [Read More](https://www.amazon.com/Cloud-Financial-Management-Guide-Principles/dp/1492044635) |
-| **FinOps: Managing Your Cloud Financials** | Detailed insights into various aspects of FinOps and cloud financial management. | [Read More](https://www.amazon.com/FinOps-Managing-Financials-Brian-Capouch/dp/B09FS544S6) |
 
 | **AutoSpotting Community Edition**          | Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot | [Explore Tool](#) |
 | **Cloud Custodian**                         | Stateless rules engine for cloud policy definition and enforcement. Tags: cost_visibility, automated_optimization, multi_cloud | [Explore Tool](#) |
