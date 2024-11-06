@@ -54,7 +54,6 @@ Elevate your understanding of FinOps with these courses:
 Discover tools that enhance your FinOps practice:
 
 #### Open Source Tools
-| Tool Name | Description | Link |
 | Tool Name                        | Description                                                                 | Link          |
 |-----------------------------------|-----------------------------------------------------------------------------|---------------|
 | **AutoSpotting Community Edition** | Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot | [Explore Tool](#) |
@@ -65,6 +64,7 @@ Discover tools that enhance your FinOps practice:
 | **Karpenter**                     | Just-in-time capacity provisioner for Kubernetes. Tags: automated_optimization, Kubernetes, AWS, Spot, EKS | [Explore Tool](#) |
 | **OptScale**                      | FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML | [Explore Tool](#) |
 | **Savings Estimator**             | GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot | [Explore Tool](#) |
+
 
 #### Commercial Tools
 | Tool Name           | Description                                                                 | Link                                             |
