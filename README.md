@@ -65,6 +65,7 @@ Discover tools that enhance your FinOps practice:
 | **OptScale**                        | FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML | [Explore Tool](https://github.com/hystax/optscale)                    |
 | **Savings Estimator**               | GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot | [Explore Tool](https://github.com/LeanerCloud/savings-estimator)      |
 
+
 #### Commercial Tools
 
 | Tool Name                             | Description                                                                   | Link                                                               |
